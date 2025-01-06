@@ -8,6 +8,8 @@ YOLOv11 model. The dataset is sourced from **Roboflow** for easy management and 
 
 
 
+![image](https://github.com/user-attachments/assets/a4dec2a2-1a51-4593-9c5a-8655b712b299)
+
 
 ## Table of Contents
 
