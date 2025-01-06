@@ -3,27 +3,27 @@
 
 
 
-This project implements **brain tumor segmentation** using **YOLOv11**. The goal is to detect and segment brain tumors from MRI images, utilizing a custom-trained YOLOv11 model. The dataset is sourced from **Roboflow** for easy management and version control.
+This project implements **brain tumor segmentation** using **YOLOv11**. The goal is to detect and segment brain tumors from MRI images, utilizing a custom-trained 
+YOLOv11 model. The dataset is sourced from **Roboflow** for easy management and version control.
 
-![Brain Tumor Segmentation](assets/brain_tumor_example.png)
+
 
 
 ## Table of Contents
 
-1. [Project Overview](https://github.com/elnemr19/Beverage-Container-Detection-Using-YOLO/tree/main?tab=readme-ov-file#project-overview)
+1. [Project Overview](https://github.com/elnemr19/Brain-Tumor-Segmentation-Using-YOLO/blob/main/README.md#project-overview)
 
-2. [Dataset](https://github.com/elnemr19/Beverage-Container-Detection-Using-YOLO/tree/main?tab=readme-ov-file#dataset)
+2. [Dataset](https://github.com/elnemr19/Brain-Tumor-Segmentation-Using-YOLO/blob/main/README.md#dataset)
 
-3. [Setup and Installation](https://github.com/elnemr19/Beverage-Container-Detection-Using-YOLO/tree/main?tab=readme-ov-file#setup-and-installation)
+3. [Setup and Installation](https://github.com/elnemr19/Brain-Tumor-Segmentation-Using-YOLO/blob/main/README.md#setup-and-installation)
 
-4. [Model Training](https://github.com/elnemr19/Beverage-Container-Detection-Using-YOLO/tree/main?tab=readme-ov-file#model-training)
+4. [Model Training](https://github.com/elnemr19/Brain-Tumor-Segmentation-Using-YOLO/blob/main/README.md#model-training)
 
-5. [Validation](https://github.com/elnemr19/Beverage-Container-Detection-Using-YOLO/tree/main?tab=readme-ov-file#validation)
+5. [Validation](https://github.com/elnemr19/Brain-Tumor-Segmentation-Using-YOLO/blob/main/README.md#validation)
 
-6. [Prediction](https://github.com/elnemr19/Beverage-Container-Detection-Using-YOLO/tree/main?tab=readme-ov-file#prediction)
+6. [Prediction](https://github.com/elnemr19/Brain-Tumor-Segmentation-Using-YOLO/blob/main/README.md#prediction)
 
-7. [Results](https://github.com/elnemr19/Beverage-Container-Detection-Using-YOLO/tree/main?tab=readme-ov-file#results)
-
+7. [Results](https://github.com/elnemr19/Brain-Tumor-Segmentation-Using-YOLO/blob/main/README.md#results)
 
 
 ## Project Overview
